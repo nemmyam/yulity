@@ -139,11 +139,6 @@
 .home-burger-menu {
   display: none;
 }
-.home-icon {
-  width: var(--dl-size-size-xsmall);
-  cursor: pointer;
-  height: var(--dl-size-size-xsmall);
-}
 .home-mobile-menu {
   top: 0px;
   left: 0px;
@@ -179,7 +174,7 @@
   align-items: center;
   justify-content: center;
 }
-.home-icon02 {
+.home-icon {
   fill: var(--dl-color-gray-900);
   width: var(--dl-size-size-xsmall);
   cursor: pointer;
@@ -241,17 +236,17 @@
   border-color: #849492ff;
   background-color: #849492ff;
 }
-.home-icon04 {
+.home-icon2 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon06 {
+.home-icon4 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon08 {
+.home-icon6 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
@@ -702,7 +697,7 @@
   .home-logo1 {
     font-size: 1.5em;
   }
-  .home-icon02 {
+  .home-icon {
     fill: var(--dl-color-gray-900);
   }
   .home-hero1 {
